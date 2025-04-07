@@ -28,7 +28,7 @@ In this capstone project, I was actively involved in multiple areas:
 
 - Documentation (Lead): I led the writing and compilation of the project documentation, including the rationale, objectives, system design, and technical explanations.  
 - Network Design (Contributor): I contributed to the layout and planning of the network infrastructure, ensuring it meets the goals of scalability, reliability, and cost-effectiveness.  
-- Configuration (Contributor): I assisted in setting up the simulated network using Cisco Packet Tracer, helping with device configurations and addressing.  
+- Configuration (Contributor): I assisted in setting up the simulated network using EVE-NG, helping with device configurations and addressing.  
 - Testing and Validation (Contributor): I took part in performance testing and troubleshooting to ensure the network operates effectively under various conditions.  
 
 ## Tools Used
